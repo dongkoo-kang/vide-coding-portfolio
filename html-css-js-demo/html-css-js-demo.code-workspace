@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dongkoo-netflix"
+		},
+		{
+			"path": "../ToDo-Firebase"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dongkoo-netflix"
+	}
+}
